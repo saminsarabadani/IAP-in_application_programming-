@@ -1,9 +1,4 @@
-/*
- * ymodem.c
- *
- *  Created on: 25 July 2023
- *      Author: Akash Virendra
- */
+
 
 /* Includes ------------------------------------------------------------------*/
 #include "flash_if.h"
