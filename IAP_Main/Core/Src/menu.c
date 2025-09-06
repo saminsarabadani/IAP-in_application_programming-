@@ -1,8 +1,8 @@
 /*
  * menu.c
  *
- *  Created on: 25 July 2023
- *      Author: Akash Virendra
+ *  
+ *     
  */
 
 /* Includes ------------------------------------------------------------------*/
@@ -12,10 +12,6 @@
 #include "menu.h"
 #include "ymodem.h"
 
-/* Private typedef -----------------------------------------------------------*/
-/* Private define ------------------------------------------------------------*/
-/* Private macro -------------------------------------------------------------*/
-/* Private variables ---------------------------------------------------------*/
 pFunction JumpToApplication;
 uint32_t JumpAddress;
 uint32_t FlashProtection = 0;
